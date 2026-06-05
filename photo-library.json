@@ -1,0 +1,68 @@
+{
+  "base_url": "https://raw.githubusercontent.com/richardcollins-pixel/thoughtful-social-assets/refs/heads/main/photos/",
+  "photos": [
+    {
+      "filename": "woman-car-reflective.png",
+      "description": "Asian woman sitting in car, looking out the window with a contemplative expression, holding a phone",
+      "mood": "reflective, calm, introspective",
+      "subjects": "woman, solo",
+      "best_for": "posts about self-reflection, mental clarity, taking a moment for yourself"
+    },
+    {
+      "filename": "woman-outdoor-call-smiling.png",
+      "description": "Black woman with curly hair outdoors on a sunny day, smiling, holding phone to ear with earphones",
+      "mood": "positive, warm, connected",
+      "subjects": "woman, solo",
+      "best_for": "posts about connection, progress, feeling supported, positive outcomes"
+    },
+    {
+      "filename": "man-home-voice-message.png",
+      "description": "South Asian man with beard at home in a kitchen, speaking into his phone, relaxed expression",
+      "mood": "casual, comfortable, at ease",
+      "subjects": "man, solo",
+      "best_for": "posts about using Thoughtful at home, voice sessions, daily habits"
+    },
+    {
+      "filename": "woman-street-phone.png",
+      "description": "Black woman with short blonde hair on an urban street, looking down at her phone, relaxed stance",
+      "mood": "grounded, everyday, urban",
+      "subjects": "woman, solo",
+      "best_for": "posts about fitting mental health into daily life, on-the-go support"
+    },
+    {
+      "filename": "man-urban-thoughtful.png",
+      "description": "White man with beard standing in front of an urban bridge, looking upward with a thoughtful expression, phone in hand",
+      "mood": "contemplative, searching, hopeful",
+      "subjects": "man, solo",
+      "best_for": "posts about seeking help, turning a corner, mental health awareness"
+    },
+    {
+      "filename": "man-outdoor-phone.png",
+      "description": "Man in a brown jacket outdoors near water, phone to ear, candid moment",
+      "mood": "candid, relaxed, outdoors",
+      "subjects": "man, solo",
+      "best_for": "posts about real moments, authenticity, everyday mental health"
+    },
+    {
+      "filename": "woman-brick-smiling.png",
+      "description": "Black woman with curly hair leaning against a brick wall, smiling warmly, holding phone",
+      "mood": "joyful, warm, approachable",
+      "subjects": "woman, solo",
+      "best_for": "posts about positive outcomes, feeling better, resilience, success stories"
+    },
+    {
+      "filename": "man-bench-phone-happy.png",
+      "description": "Black man in an orange jacket sitting on a bench outdoors, smiling at his phone, relaxed",
+      "mood": "happy, engaged, positive",
+      "subjects": "man, solo",
+      "best_for": "posts about engagement, app experience, feeling good, session completion"
+    },
+    {
+      "filename": "father-baby-home.png",
+      "description": "Father holding a baby indoors in a bright home, tender family moment",
+      "mood": "tender, human, family-oriented",
+      "subjects": "man, family, child",
+      "best_for": "posts about whole-person wellbeing, parenting stress, family mental health, work-life balance"
+    }
+  ]
+}
